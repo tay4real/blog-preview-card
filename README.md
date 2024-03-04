@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://blogcard.netlify.com)
+- Live Site URL: [Add live site URL here](https://blogcardpreview.netlify.com)
 
 ## My process
 
